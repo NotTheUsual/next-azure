@@ -12,6 +12,9 @@ export default function Home() {
         <h1 className="title">
           Azure!
         </h1>
+        <p className="description">
+          Let's see what a preview looks like
+        </p>
       </main>
 
       <style jsx>{`
